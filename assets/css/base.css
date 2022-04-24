@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    line-height: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+:root{
+    --primary-color:#3fd0d4;
+    --header-text:#212121;
+    --subheader-text:#505050;
+    --mess-color:#ef2853;
+    --footer-color:#a9a9a9;
+}
+
